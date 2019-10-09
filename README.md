@@ -16,8 +16,11 @@ https://senbox.atlassian.net/wiki/spaces/SNAP/pages/50855941/Configure+Python+to
 
 https://github.com/senbox-org/snap-engine/tree/master/snap-python/src/main/resources
 
+### Running the sample
+1. Run all the cells in [cloudv1.ipynb](cloudv1.ipynb)
+
 ### Usage
-1. Rename ```sample_consts.py``` to ```consts.py```
+1. Rename [sample_consts.py](sample_consts.py) to ```consts.py```
 2. Fill in the fields
-3. Uncomment line 179 if you want to get your data from an S3 bucket
-4. Run all the cells
+3. Uncomment line 182 in [cloudv1.ipynb](cloudv1.ipynb) if you want to get your data from an S3 bucket
+4. Run all the cells in [cloudv1.ipynb](cloudv1.ipynb)
