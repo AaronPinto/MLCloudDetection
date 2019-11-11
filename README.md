@@ -11,6 +11,14 @@ Another area to look into would be going back to using the K-Means Clustering in
 
 The main constraint with all of this is only being able to use the RGB and N bands as the images only contain those.
 
+## Getting Started
+### DISCLAIMER: These instructions are for Windows 10
+1. Make sure you install or have a Python version supported by Snappy
+2. Install all the libraries in the requirements.txt file
+3. Install ESA SNAP and Snappy
+4. Follow all the instructions for installing Snappy in the links below
+5. Proceed to [Running the sample](#running-the-sample)
+
 ### Installing Snappy
 https://senbox.atlassian.net/wiki/spaces/SNAP/pages/50855941/Configure+Python+to+use+the+SNAP-Python+snappy+interface
 
